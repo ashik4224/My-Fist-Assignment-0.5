@@ -1,0 +1,89 @@
+body{
+    margin: 0;
+    font-family: "Open Sans", sans-serif;
+}
+
+/* header */
+.guru{
+    text-align: center;
+    background-image: url("../assets/Hero-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+   background-size: 100% ;
+   margin-top: 80px;
+   padding-top: 50px;
+   padding-bottom: 50px;
+}
+.guru  .title3 .sub-title{
+    color: black;
+}
+.sub-title{
+    font-size: 20px;
+    border-radius: 8px;
+    color: rgb(13, 19, 33);
+
+}
+.title1{
+    font-size: 28px;
+    font-weight: 600;
+    color:  rgb(13, 19, 33);
+    line-height: 55px;
+}.guru .title1{
+    margin-top: auto;
+}
+/* section2 */
+.section2{
+    width: 1920px;
+    height: 1235px;
+    align-self: center;
+    
+}
+.content{
+    display: flex;
+    margin-top: 80px;
+    margin-left:300px;
+    box-sizing: border-box;
+    box-shadow: 1px black;
+
+}
+
+.description{
+    margin-top: 50px;
+
+}
+.but{
+    margin-top: 80px;
+    padding: 10px;
+    font-size: 15px;
+
+}
+.title5{
+    width: 477px;
+    height: 220px;
+    box-sizing: border-box;
+    
+}
+.img{
+    width: 260;
+    height: 117;
+    display: inline-block;
+}
+.content1{
+    display: flex;
+    margin-top: 80px;
+    margin-left:300px;
+    box-sizing: border-box;
+    box-shadow: 1px black;
+
+    
+}
+.title6{
+    width: 477px;
+    height: 220px;
+    box-sizing: border-box;
+}
+.img1{
+    width: 260;
+    height: 117;
+    display: inline-block;
+}
