@@ -152,7 +152,7 @@ body{
     width: 1140px;
     height: 314px;
     position: relative;
-    background-image: url('/assets/handshake.jpg');
+    background-image: url('../assets/handshake.jpg');
     background-size: cover;
 }
 .overlay{
